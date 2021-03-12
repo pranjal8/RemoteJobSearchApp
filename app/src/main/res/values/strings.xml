@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Job Search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <string name="image_favorite">image_favorite</string>
+    <string name="logo">company logo</string>
+</resources>
